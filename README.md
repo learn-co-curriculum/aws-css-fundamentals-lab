@@ -21,7 +21,9 @@ should be written in `style.css`.
 
 Fork and clone this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Run `learn test` as you work through this assignment to see your progress.
+Code. 
+
+Install all the dependencies with `npm install` to ensure you can test your work as you go with `npm test`.
 
 ## Link an External CSS File
 
